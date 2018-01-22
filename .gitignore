@@ -1,0 +1,8 @@
+*.txt
+*.zip
+junk.txt
+assets/photoshop/
+assets/videos/
+!assets/videos/tour-*.mp4
+log/*.log
+log/*.log.[0-9]
